@@ -1,5 +1,6 @@
 creating a new file 
 changes are made as per requirment
+<<<<<<< HEAD
 
 making changes in local repo and updating it 
 intial when i pulled a file from  remote repo there was a prob with branches i.e is different branches were present to overcome it we used 
@@ -8,3 +9,5 @@ or
 git pull --no-rebase
 or 
 git pul -ff-only
+=======
+>>>>>>> cd10989 (Create 28-2-23)
