@@ -8,3 +8,11 @@ or
 git pull --no-rebase
 or 
 git pul -ff-only
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> cd10989 (Create 28-2-23) 
+
+klmnopqrstuvwxyz
+
+>>>>>>> f331f25 (abcd line)
